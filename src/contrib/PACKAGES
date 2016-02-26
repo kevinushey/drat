@@ -2,6 +2,6 @@ Package: sashimi
 Version: 0.0.1
 Depends: R (>= 3.2.3)
 License: MIT + file LICENSE
-MD5sum: 2afad8e16a18c63e72a5be9e07c74d4c
+MD5sum: 2cb6e1d670a7bb5e62c320dcdc2c731d
 NeedsCompilation: no
 
